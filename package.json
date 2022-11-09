@@ -1,0 +1,13 @@
+{
+  "name": "js-deprecate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "inspect": "node --inspect index.js",
+    "inspect-profile": "node --inspect index-profile.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
