@@ -1,7 +1,8 @@
 let i = 0;
+const maxi = 2;
 
-while (true) {
-  doSomething(10000);
+while (i < maxi) {
+  doSomething(5000);
   i++;
 }
 
